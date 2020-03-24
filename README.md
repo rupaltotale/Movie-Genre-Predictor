@@ -1,5 +1,5 @@
 # Movie-Genre-Predictor
-A data science project that uses machine learning models to predict genres of movies.
+A data science project that uses a machine learning model to predict genres of movies.
 
 This project contains 5 python notebooks and should be reviewed in the following order:
 
